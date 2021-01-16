@@ -1,4 +1,3 @@
-![](image/img1.jpg)
 # hear i will put my code 
 ## my another github username is [joeljebitto](https://github.com/joeljebitto) 
 
